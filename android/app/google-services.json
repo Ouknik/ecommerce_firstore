@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280814120098",
+    "firebase_url": "https://pdfdowload-846f2-default-rtdb.firebaseio.com",
+    "project_id": "pdfdowload-846f2",
+    "storage_bucket": "pdfdowload-846f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280814120098:android:a4be73a6ab8f0925857bfb",
+        "android_client_info": {
+          "package_name": "com.example.firebasegetex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280814120098-617fga4h5uhtakoavhqjks2ch08dgoru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIVo779jLCYv4xlusmcKbVnLtskQsomk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280814120098-617fga4h5uhtakoavhqjks2ch08dgoru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
